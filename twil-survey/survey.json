@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "body": "How many patients or residents are onsite?",
+      "type": "text"
+    },
+    {
+      "body": "Are you on generator power?",
+      "type": "boolean"
+    },
+    {
+      "body": "If yes, does your generator power the air conditioning/heat?",
+      "type": "text"
+    },
+
+    {
+      "body": "Are any of your patients or residents experiencing any major issues currently?",
+      "type": "text"
+    },
+    {
+      "body": "Are any of your patients or residents in need of transportation for dialysis or other essential appointments?",
+      "type": "boolean"
+    },
+    {
+      "body": "Are you considering relocating your patients or residents to another facility at this time?",
+      "type": "boolean"
+    },
+    {
+      "body": "If so, where and when?",
+      "type": "text"
+    }
+  ],
+  "title": "The Emergency Operations Center Facility Hotline"
+}
